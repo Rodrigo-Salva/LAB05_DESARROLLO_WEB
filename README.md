@@ -1,5 +1,5 @@
 # 🌐 Desarrollo de Aplicaciones en Internet  
-## 🧪 Evaluación de Laboratorio 1 – Sección B
+## 🧪 Evaluación de Laboratorio 1 – Sección D
 
 **Ciclo:** III  
 **Fecha de entrega:** 21/09/2024  
